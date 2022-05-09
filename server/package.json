@@ -1,0 +1,16 @@
+{
+  "name": "aphrodite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Chloe Brown",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2",
+    "mongoose-unique-validator": "^3.0.0"
+  }
+}
